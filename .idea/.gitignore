@@ -9,4 +9,4 @@
 
 Examples/
 *.pkl
-.idea/
+.idea/*
