@@ -11,3 +11,4 @@ Examples/
 *.pkl
 .idea/
 *.xml
+*.iml
