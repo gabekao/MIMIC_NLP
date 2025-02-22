@@ -9,4 +9,5 @@
 
 Examples/
 *.pkl
-.idea/*
+.idea/
+*.xml
